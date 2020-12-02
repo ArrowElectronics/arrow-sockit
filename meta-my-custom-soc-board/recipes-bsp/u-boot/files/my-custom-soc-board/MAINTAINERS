@@ -1,0 +1,5 @@
+AB-BMS-SOC BOARD
+M:	Steven Kravatsky <skravatsky@arrow.com>
+S:	Maintained
+F:	include/configs/socfpga_liion_ab_bms_soc.h
+F:	configs/socfpga_liion_ab_bms_soc_defconfig
